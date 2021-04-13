@@ -25,7 +25,7 @@ let profile = {
     "VSCODE"
   ],
   social: {
-    linkedin: "https://www.linkedin.com/in/daniel-lazarotto-8b7a08ab/",
+    linkedin: "https://www.linkedin.com/in/daniel-lazarotto/",
     instagram: "http://instagram.com/daniellazarotto",
     github: "https://github.com/daniellazarotto",
   },
